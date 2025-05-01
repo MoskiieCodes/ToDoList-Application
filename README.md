@@ -37,5 +37,5 @@ It includes a dynamic UI for managing tasks and a connected REST API with cloud 
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/your-username/todo-challenge.git
+git clone https://github.com/MoskiieCodes/ToDoList-Application.git
 cd todo-challenge
